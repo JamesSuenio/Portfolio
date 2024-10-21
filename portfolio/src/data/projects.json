@@ -2,8 +2,8 @@
     {
       "title": "Project A",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "This is a project made to learn prototype.",
+      "skills": ["Figma"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
@@ -11,7 +11,7 @@
       "title": "Project B",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "skills": ["React", "Express", "Node", "MongoDB"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
@@ -19,7 +19,7 @@
       "title": "Project C",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "skills": ["React", "vitejs"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
